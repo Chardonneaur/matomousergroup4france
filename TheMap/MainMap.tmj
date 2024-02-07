@@ -3397,7 +3397,7 @@
       ],
       "height": 53,
       "id": 15,
-      "name": "Start",
+      "name": "start",
       "opacity": 1,
       "type": "tilelayer",
       "visible": true,
@@ -37516,7 +37516,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "MainMap-chunk-1-73616d05.png",
+      "image": "MainMap-chunk-1-c34e1138.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -37542,7 +37542,7 @@
     {
       "columns": 11,
       "firstgid": 257,
-      "image": "MainMap-chunk-2-73616d05.png",
+      "image": "MainMap-chunk-2-c34e1138.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
